@@ -21,6 +21,8 @@ This Power BI report analyzes **Mavin Toy's sales performance**, highlighting re
 - Add a slicer to filter the report page by store location and a bar chart showing ‘total orders’ by product category, and a line chart showing ‘total revenue’ with the date hierarchy on the x-axis
 - Assemble the charts into a logical layout and adjust formatting, alignment and polish to finalize the report as you see fit
 
+![Picture2](https://github.com/user-attachments/assets/700e7631-8710-4c59-aa5c-5ff4d2b0ea9c)
+
 ## DAX Function
 Here are some DAX function or calculated columns that were used
 1. Revenue = sales[Price] * sales[Units] 
